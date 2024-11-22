@@ -7,6 +7,7 @@ def home(request):
                         <li> Apple</li>
                         <li> Mango</li>
                         <li> Chikku</li>
+                        <li> Banana </li>
                         </ol>"""
                         )
 # Create your views here.
